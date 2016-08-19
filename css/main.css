@@ -2,7 +2,11 @@ div{
 	
 	margin:100px;
 	width:500px;
-	padding:10px 150px;
+	/*padding:10px 70px 60px;*/
+	padding-top:10px; 
+	padding-left:70px;
+	padding-right:10px;
+	padding-bottom:30px; 
 	border-top: 10px solid #BB48D4;
     border-right: 5px solid #BB48D4;
     border-bottom: 10px solid #BB48D4;
