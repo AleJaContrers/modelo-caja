@@ -1,0 +1,20 @@
+div{
+	
+	margin:100px;
+	width:500px;
+	padding:10px 150px;
+	border-top: 10px solid #BB48D4;
+    border-right: 5px solid #BB48D4;
+    border-bottom: 10px solid #BB48D4;
+    border-left:5px solid #BB48D4;
+	background-color:#FCDE9E;
+}
+
+p{
+	font-family: Times;
+	font-size: 16px;
+	border:3px dotted black;
+	padding-left:200px;
+	padding-right:200px;
+	background-color: white;
+}
